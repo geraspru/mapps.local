@@ -1,9 +1,9 @@
 # mapps.local
 
-Gerald Spruyt
-Opleidingsonderdeel:
-2016-2017
-Opleiding:
-Afstudeerrichting:
-Keuzeoptie:
-Opleidingsinstelling:
+Gerald Spruyt <br>
+Crossmedia Publishing I <br>
+2016-2017<br>
+Bachelor in de grafische en digitale media<br>
+Multimedieproductie<br>
+ProDev<br>
+Arteveldehogeschool<br>
