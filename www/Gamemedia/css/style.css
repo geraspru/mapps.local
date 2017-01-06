@@ -1,0 +1,299 @@
+
+body {
+  padding-top: 50px;
+}
+
+navbar-brand{
+color: yellow;
+}
+h1{
+	width: 100%;
+	text-align: center;
+}
+
+span{
+	width: 100%;
+	color:rgba(0,0,120, 1);
+}
+
+/*main page*/
+
+.titels{
+	float: left;
+	clear: left;
+	width: 100%;
+	margin-top: 50px;
+}
+
+/*login page */
+
+.btn-primary {
+	float:left;
+	clear: left;
+	top: 280px;
+	right: 850px;
+}
+
+
+/*genre page */
+
+.blocks{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	right: 90px;
+	top: 50px;
+}
+
+.block {
+	float: right;
+	width: 215px;
+	height: 215px;
+	margin: 10px;
+}
+
+#b1{
+	background-color: rgb(70,130,180);
+	text-align: center;
+	color: white;
+	line-height: 6.25;
+	font-size: 35px;
+	font-family: Courier;
+}
+
+#b2{
+	background-color: rgb(255,140,0);
+	text-align: center;
+	color: white;
+	line-height: 6.25;
+	font-size: 35px;
+	font-family: Courier;
+}
+
+#b3{
+	background-color: rgb(220,20,60);
+	text-align: center;
+	color: white;
+	line-height: 6.25;
+	font-size: 35px;
+	font-family: Courier;
+}
+
+#b4{
+	background-color: rgb(112,128,144);
+	text-align: center;
+	color: white;
+	line-height: 6.25;
+	font-size: 35px;
+	font-family: Courier;
+}
+
+#b5{
+	background-color: rgb(107,142,35);
+	text-align: center;
+	color: white;
+	line-height: 6.25;
+	font-size: 35px;
+	font-family: Courier;
+	}
+
+#b6{
+	background-color: rgb(139,69,19);
+	text-align: center;
+	color: white;
+	line-height: 6.25;
+	font-size: 35px;
+	font-family: Courier;
+}
+
+#b7{
+	background-color: rgb(255,215,0);
+	text-align: center;
+	color: white;
+	line-height: 6.25;
+	font-size: 35px;
+	font-family: Courier;
+}
+
+
+#b8{
+	background-color: rgb(69,69,69);
+	text-align: center;
+	color: white;
+	line-height: 6.25;
+	font-size: 35px;
+	font-family: Courier;
+}
+
+/*tag page*/
+
+.tag_blocks{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	right: 90px;
+	top: 50px;
+}
+
+.tag_block {
+	float: right;
+	width: 215px;
+	height: 215px;
+	margin: 10px;
+}
+
+#t1{
+	background-color: rgb(0,128,128);
+	text-align: center;
+	color: white;
+	line-height: 8.25;
+	font-size: 25px;
+	font-family: Courier;
+}
+
+#t2{
+	background-color: rgb(128,128,0);
+	text-align: center;
+	color: white;
+	line-height: 8.25;
+	font-size: 25px;
+	font-family: Courier;
+}
+
+#t3{
+	background-color: rgb(230,69,15);
+	text-align: center;
+	color: white;
+	line-height: 8.25;
+	font-size: 25px;
+	font-family: Courier;
+}
+
+#t4{
+	background-color: rgb(139,0,139);
+	text-align: center;
+	color: white;
+	line-height: 8.25;
+	font-size: 25px;
+	font-family: Courier;
+}
+
+#t5{
+	background-color: rgb(255,70,70);
+	text-align: center;
+	color: white;
+	line-height: 8.25;
+	font-size: 25px;
+	font-family: Courier;
+	}
+
+#t6{
+	background-color: rgb(240,128,128);
+	text-align: center;
+	color: white;
+	line-height: 8.25;
+	font-size: 25px;
+	font-family: Courier;
+}
+
+#t7{
+	background-color: rgb(154,205,50);
+	text-align: center;
+	color: white;
+	line-height: 8.25;
+	font-size: 25px;
+	font-family: Courier;
+}
+
+
+#t8{
+	background-color: rgb(218,165,32);
+	text-align: center;
+	color: white;
+	line-height: 8.25;
+	font-size: 25px;
+	font-family: Courier;
+}
+
+/* review toevoegen page */
+
+.bijschrift{
+	color: lightslategrey;
+}
+
+#date{
+	position: absolute;
+	top: 460px;
+	border-style: none;
+	color: transparent;
+}
+
+/*review page*/
+
+
+#myInput{
+	position: relative;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 100%;
+	text-align: center;
+	font-size: 2em;
+
+}
+
+.reviewHead{
+	background-color:rgba(0,0,120, 0.5);
+	color: rgba(0,0,120, 0.8);
+	list-style-type: none;
+	text-align: center;
+	position: relative;
+	right: 40px;
+	width: 103%;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.reviewItemDiv{
+	background-color:rgba(0,0,120, 0.2);
+	list-style-type: none;
+	text-align: center;
+	position: relative;
+	right: 40px;
+	width: 103%;
+}
+
+.reviewItem{
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+/* review pages */
+
+#terug{
+	position: relative;
+	top: 100px;
+}
+
+/* navbar */
+
+.navbar{
+	background-color: black;
+}
+
+/* genreRacing page */
+h3{
+	list-style-type: none;
+	text-align: center;
+	position: relative;
+	right: 40px;
+	width: 103%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 30px;
+}
+
+
+
+
+
+
+
