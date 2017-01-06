@@ -6,7 +6,6 @@ require_once("functions/review.php");
 require_once("functions/game.php");
 require_once("functions/genre.php");
 require_once("functions/tags.php");
-require_once("functions/taggame.php");
 
 
 if(isset($_GET["delete_id"])){
